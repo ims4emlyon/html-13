@@ -1,0 +1,56 @@
+Nom Entreprise: Palais du Chocolat
+Slogan: Le chocolat qui éveille vos papilles
+Texte Appel Action: Devis gratuit
+Text Appel Secondaire: Voir le catalogue
+
+Identite Marque:
+Couleur Principale: #D8935C
+Couleur Secondaire: #6B3E2E
+Couleur Texte: #2E2A26
+Couleur Fond: #F8F1E8
+Couleur Fond Alt: #EAD8C3
+Typographie Titres: Playfair Display
+Typographie Corps: Montserrat
+
+Promesses:
+Liste Benefices Clients:
+  • Des chocolats artisanaux de qualité supérieure, réalisés à partir d'ingrédients sélectionnés avec soin
+  • Des saveurs uniques et originales, pour des sensations gustatives incomparables
+  • Une attention particulière portée à la présentation des chocolats, pour des cadeaux gourmands inoubliables
+  • Un service personnalisé et attentionné, pour répondre à toutes vos demandes et envies
+
+Services:
+Nom: Chocolats artisanaux
+Description: Découvrez notre sélection de chocolats faits à la main, alliant tradition et créativité pour des saveurs uniques.
+Nom: Ateliers de dégustation
+Description: Participez à nos ateliers pour apprendre à déguster le chocolat comme un expert, en explorant ses arômes et ses textures.
+Nom: Cadeaux personnalisés
+Description: Offrez des cadeaux gourmands avec nos coffrets de chocolats personnalisés, parfaits pour toutes les occasions.
+
+Produits:
+Titre: Praliné croustillant
+Presentation: Une ganache fondante au praliné, agrémentée d'éclats de noisettes croustillants. Un véritable délice pour les amateurs de chocolat et de fruits secs.
+Titre: Truffe au champagne
+Presentation: Une ganache onctueuse et légèrement pétillante, enrobée de chocolat noir. Une saveur subtile et délicate, idéale pour les fêtes et les célébrations.
+Titre: Tablette de chocolat noir 70%
+Presentation: Un chocolat noir intense et puissant, aux notes de cacao amer et de fruits secs. Un grand classique de la chocolaterie, à déguster seul ou à utiliser en cuisine.
+Titre: Coffret de chocolats assortis
+Presentation: Un assortiment de chocolats fins, sélectionnés avec soin par nos chocolatiers. Un cadeau gourmand et raffiné, qui fera plaisir à coup sûr.
+Titre: Chocolat chaud
+Presentation: Un chocolat chaud onctueux et réconfortant, à déguster en toute occasion.
+Titre: Mendiants
+Presentation: Des chocolats aux fruits secs et fruits confits, pour une explosion de saveurs en bouche.
+
+Clients:
+Nom: Sophie
+Type Prestation: Coffret cadeau personnalisé
+Commentaire: Le coffret de chocolats que j'ai offert était magnifique et délicieux. Les saveurs étaient variées et originales, et la présentation était très soignée. Un grand merci au Palais du Chocolat pour ce cadeau parfait.
+Note: 5
+Nom: Antoine
+Type Prestation: Mariage
+Commentaire: Les chocolats du Palais du Chocolat ont été un véritable succès lors de notre mariage. Tout le monde a adoré les saveurs raffinées et les présentations élégantes. Un grand bravo à toute l'équipe.
+Note: 5
+Nom: Nicolas
+Type Prestation: Achat en boutique
+Commentaire: J'ai acheté une tablette de chocolat noir au Palais du Chocolat et je n'ai pas été déçu. Le chocolat était intense et puissant, avec des notes subtiles de fruits secs. Un vrai régal pour les papilles.
+Note: 4
