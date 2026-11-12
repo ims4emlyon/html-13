@@ -1,8 +1,13 @@
 * {
   font-family: 'Montserrat';
   color: rgb(151, 157, 158);
+  padding: 35px ;
 }
 
+img {
+  width: 250px ;
+  height: 175px ;
+}
 /* Couleur Principale: #D8935C
 Couleur Secondaire: #6B3E2E
 Couleur Texte: #2E2A26
