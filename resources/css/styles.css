@@ -4,6 +4,45 @@
   padding: 35px ;
 }
 
+ul {
+  display: flex ;
+  flex-direction: row ;
+}
+button {
+  cursor: pointer;
+  font-weight: 9px;
+  border-radius: 3px;
+  padding: 2px;
+  border: 0;
+  color: #fff;
+  background: #000a47;
+  line-height: 1.15;
+  font-size: 12px;
+img {
+  width: 250px ;
+  height: 175px ;
+}
+  :hover {
+    transition: all .1s ease;
+    box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
+  }
+
+}
+
+#promess {
+  display: flex ;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  div {
+      display: flex ;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  }
+}
+
+
 img {
   width: 250px ;
   height: 175px ;
@@ -16,8 +55,36 @@ img {
 }  
 
 .imgAccomplishment  {
-  width: 75px ;
-  height: 150px ;
+  width: 225px ;
+  height: 450px ;
+  border-radius: 64px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+#ulPromess {
+  display: flex ;
+  flex-direction: column ;
+}
+
+
+#divPromess {
+  display: flex ;
+  flex-direction: row ;
+}
+
+
+
+
+#imgPromess { 
+    border-radius: 1% ; 
+    padding: 10px;
+    
+    border: 3px;
+    border-color: red ;
+    height: 750px;
+    width: 250px;
 }
 
 .imgAvatar { 
@@ -49,6 +116,7 @@ Couleur Fond Alt: #EAD8C3 */
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display';
+  color: violet;
 }
 
 header {
@@ -63,14 +131,17 @@ header {
       display: flex ;
       flex-direction: row ;
     }
+    
   }
 
   #header-high {
+    padding-inline: 50px ;
     display: flex ;
     flex-direction: row ;justify-content: space-between;
   }
 
-  #header-low {
+  #header-low {    
+    padding-inline: 50px ;
     display: flex ;
     flex-direction: row ;
     
@@ -105,7 +176,7 @@ li {
           padding: 7px;
         }
 
-/* header {
+/* /* header {
   display: flex;
   flex-direction: column;
 
@@ -123,4 +194,54 @@ li {
       }
     }
   }
-} */
+} * */
+
+#accomplishment {
+  padding: 35px ;
+}
+.accomplishmentEven {
+  display: flex ;
+  flex-direction: row;
+  padding: 25px ;
+}
+
+.accomplishmentOdd {
+  display: flex ;
+  flex-direction: row-reverse;
+  padding: 25px ;
+
+}
+
+#testimonies {
+  padding-top: 50px ;
+  display:  flex ;
+  justify-content: center ;
+  align-items: center;
+
+}
+
+
+
+#footerBig {
+  display:  flex ;
+  flex-direction: row;
+
+  #footerRight {
+    div {
+      border : 1px ;
+      display: flex ;
+      flex-direction: row ;
+      * { 
+        padding: 5px ;
+        border: 0px ;}
+    }
+
+  }
+
+}
+
+
+#imgHeaderLow {
+  width: 500px  ;
+  height: 500px ;
+}
