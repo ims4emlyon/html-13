@@ -1,0 +1,88 @@
+* {
+  font-family: 'Montserrat';
+  color: rgb(151, 157, 158);
+}
+
+/* Couleur Principale: #D8935C
+Couleur Secondaire: #6B3E2E
+Couleur Texte: #2E2A26
+Couleur Fond: #F8F1E8
+Couleur Fond Alt: #EAD8C3 */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display';
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+
+  div {
+    display: flex;
+    flex-direction: column;
+
+    div {
+      display: flex ;
+      flex-direction: row ;
+    }
+  }
+
+  #header-high {
+    display: flex ;
+    flex-direction: row ;justify-content: space-between;
+  }
+
+  #header-low {
+    display: flex ;
+    flex-direction: row ;
+    
+    div {
+      display: flex ;
+      flex-direction: column;
+
+      div {
+        display: flex ;
+        flex-direction: row;
+      }
+    }
+  }
+
+  img {
+    height: 75px;
+    width: 75px;
+  }
+
+  nav {
+    display: flex ;
+    flex-direction: row ;
+    ul {
+    display: flex;
+    flex-direction: row;
+  }
+  }
+    
+}
+
+li {
+          padding: 7px;
+        }
+
+/* header {
+  display: flex;
+  flex-direction: column;
+
+    div div {
+    display: flex;
+    flex-direction: row;
+
+
+
+    nav {
+      ul {
+        display: flex;
+        flex-direction: row;
+        
+      }
+    }
+  }
+} */
